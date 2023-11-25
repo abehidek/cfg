@@ -237,7 +237,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "13.22.541.9804"
+                            "value": "13.23.544.5515"
                         },
                         {
                             "name": "CursorOverride",
@@ -314,7 +314,7 @@
                         },
                         {
                             "name": "ChatChannelVisibility",
-                            "value": "1"
+                            "value": "2"
                         },
                         {
                             "name": "ChatScale",
@@ -1537,7 +1537,7 @@
                         },
                         {
                             "name": "evtCastSpell3smart",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "evtCastSpell4smart",
