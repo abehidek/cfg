@@ -237,7 +237,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "13.23.544.5515"
+                            "value": "13.24.547.9214"
                         },
                         {
                             "name": "CursorOverride",
@@ -375,6 +375,10 @@
                         {
                             "name": "HideEnemySummonerEmotes",
                             "value": "1"
+                        },
+                        {
+                            "name": "HideReciprocityFist",
+                            "value": "0"
                         },
                         {
                             "name": "ItemShopItemDisplayMode",
@@ -681,7 +685,7 @@
                         },
                         {
                             "name": "MasterVolume",
-                            "value": "1.0000"
+                            "value": "0.1200"
                         },
                         {
                             "name": "MusicMute",
@@ -835,11 +839,11 @@
                         },
                         {
                             "name": "evtNormalCastAvatarSpell1",
-                            "value": "null"
+                            "value": "[Shift][d]"
                         },
                         {
                             "name": "evtNormalCastAvatarSpell2",
-                            "value": "null"
+                            "value": "[Shift][f]"
                         },
                         {
                             "name": "evtNormalCastItem1",
